@@ -1,0 +1,21 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Analyze thread dump" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Android Session Restarted" displayType="TOOL_WINDOW" />
+    <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
+    <notification groupId="Database editor log" displayType="NONE" />
+    <notification groupId="Database refactoring log" displayType="NONE" />
+    <notification groupId="Database view" displayType="TOOL_WINDOW" />
+    <notification groupId="Flash app not compiled before launch" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Fatal Errors" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="notification.group.id.gradle" displayType="TOOL_WINDOW" />
+    <notification groupId="SbtImportMessage" displayType="STICKY_BALLOON" />
+    <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Important Messages" displayType="NONE" />
+  </component>
+</application>

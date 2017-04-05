@@ -1,0 +1,43 @@
+<application>
+  <component name="libraryTable">
+    <library name="3rd_party">
+      <CLASSES>
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/oracle/ojdbc14.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/timesten/ttjdbc6.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/commons-codec-1.3.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/commons-collections-3.2.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/commons-httpclient-3.0.1.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/backport-util-concurrent-2.1.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/axis.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/xerces.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/xalan.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/jakarta-oro-2.0.8.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/crimson.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/xercesImpl.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/qfix/purejava/1.6/dom4j-1.6.1.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/qfix/purejava/1.6/jaxen-1.1.4.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/qfix/purejava/1.6/je-2.1.30.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/qfix/purejava/1.6/proxool-0.9.1.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/qfix/purejava/1.6/jcl-over-slf4j-1.7.13.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/qfix/purejava/1.6/mina-core-2.0.16.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/httpcore-4.4.4.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/httpclient-4.5.2.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/log4j-2.7/disruptor-3.3.6.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/log4j-2.7/log4j-api-2.7.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/log4j-2.7/log4j-core-2.7.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/log4j-2.7/log4j-slf4j-impl-2.7.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/log4j-2.7/slf4j-api-1.7.21.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/log4j-2.7/slf4j-ext-1.7.21.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/commons-logging-1.2.jar!/" />
+        <root url="jar://C:/depot/FXCM/New_CurrentSystem/Main/3rd_party/Apache/log4j-1.2.17.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/httpclient-4.5.2-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ideaLibSources/httpcore-4.4.4-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ideaLibSources/mina-core-2.0.16-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ideaLibSources/disruptor-3.3.6-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

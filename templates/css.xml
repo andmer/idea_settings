@@ -1,0 +1,16 @@
+<templateSet group="css">
+  <template name="bt" value="border-top: 1px solid $VALUE$;$END$" description="border-top" toReformat="false" toShortenFQNames="false">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="cl" value="clear: left;$END$" description="clear: left" toReformat="false" toShortenFQNames="false" />
+  <template name="fl" value="float: left;$END$" description="float: left" toReformat="false" toShortenFQNames="false" />
+  <template name="p" value="padding: $VALUE$;$END$" description="padding" toReformat="false" toShortenFQNames="false">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="r" value="right: $VALUE$;$END$" description="right" toReformat="false" toShortenFQNames="false">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="w" value="width: $VALUE$;$END$" description="width" toReformat="false" toShortenFQNames="false">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

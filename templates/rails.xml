@@ -1,0 +1,7 @@
+<templateSet group="rails">
+  <template name="bt" value="belongs_to :$OBJ$, :class_name =&gt; &quot;$CLASS_NAME$&quot;, :foreign_key =&gt; &quot;$FOREIGN_KEY_ID$&quot;$END$" description="belongs to" toReformat="true" toShortenFQNames="true">
+    <variable name="OBJ" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FOREIGN_KEY_ID" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

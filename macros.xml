@@ -1,0 +1,18 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="reload">
+      <action id="Vcs.UpdateProject" />
+      <action id="Synchronize" />
+    </macro>
+    <macro name="rr">
+      <action id="Rearranger" />
+      <action id="ReformatCode" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="full">
+      <action id="ViewToolBar" />
+      <action id="ViewToolButtons" />
+      <action id="ViewStatusBar" />
+    </macro>
+  </component>
+</application>

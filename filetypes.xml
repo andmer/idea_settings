@@ -1,0 +1,30 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="xposed_init" type="PLAIN_TEXT" />
+      <mapping pattern="executions" type="PLAIN_TEXT" />
+      <mapping pattern="scratch3" type="PLAIN_TEXT" />
+      <mapping pattern="scratch2" type="PLAIN_TEXT" />
+      <mapping pattern="scratch" type="PLAIN_TEXT" />
+      <mapping pattern="eurjpy" type="PLAIN_TEXT" />
+      <mapping pattern="t" type="PLAIN_TEXT" />
+      <mapping pattern="README_FOR_APP" type="PLAIN_TEXT" />
+      <mapping ext="license" type="PLAIN_TEXT" />
+      <mapping ext="logger" type="PLAIN_TEXT" />
+      <mapping ext="vb" type="PLAIN_TEXT" />
+      <mapping ext="eurusd" type="PLAIN_TEXT" />
+      <mapping ext="2010-02-08" type="PLAIN_TEXT" />
+      <mapping ext="simrc" type="Properties" />
+      <mapping ext="vmoptions" type="Properties" />
+      <mapping ext="cfg" type="Properties" />
+      <mapping ext="ini" type="Properties" />
+      <mapping ext="icls" type="XML" />
+      <mapping ext="raketasks" type="XML" />
+      <mapping ext="xng" type="XML" />
+      <mapping ext="jxb" type="XML" />
+      <mapping ext="inc" type="XML" />
+      <mapping ext="generators" type="XML" />
+    </extensionMap>
+  </component>
+</application>

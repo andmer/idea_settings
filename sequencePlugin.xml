@@ -1,0 +1,6 @@
+<application>
+  <component name="sequencePlugin">
+    <option name="FONT_NAME" value="Consolas" />
+    <option name="FONT_SIZE" value="16" />
+  </component>
+</application>
