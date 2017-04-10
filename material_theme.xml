@@ -1,7 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColor" value="ffd700" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="highlightThickness" value="4" />
+    <option name="highlightThickness" value="5" />
+    <option name="isContrastMode" value="true" />
   </component>
 </application>
