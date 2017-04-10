@@ -3,7 +3,7 @@
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="FONT_SCALE" value="1.0" />
-    <option name="FONT_SIZE" value="20" />
+    <option name="FONT_SIZE" value="16" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
@@ -18,5 +18,6 @@
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
     <option name="SORT_BOOKMARKS" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
