@@ -71,6 +71,10 @@
   <action id="SmartIntroduce.Toggle">
     <keyboard-shortcut first-keystroke="shift ctrl alt i" />
   </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
