@@ -1,4 +1,10 @@
 <keymap version="1" name="andre" parent="$default">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id="ActivateAntBuildToolWindow">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
@@ -13,24 +19,40 @@
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="ActivateRunToolWindow" />
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="alt 2" />
-  </action>
+  <action id="ActivateStructureToolWindow" />
   <action id="Add Call to Sequence Diagram" />
   <action id="Add Return to Sequence Diagram" />
   <action id="ContextHelp" />
   <action id="Diff.FocusOppositePane" />
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
+  <action id="EditorHungryBackSpace">
+    <keyboard-shortcut first-keystroke="alt back_space" />
+  </action>
   <action id="EditorKillToWordEnd">
-    <keyboard-shortcut first-keystroke="shift alt delete" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="EditorKillToWordStart">
+    <keyboard-shortcut first-keystroke="shift back_space" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="EditorMoveToPageBottomWithSelection" />
+  <action id="EditorMoveToPageTopWithSelection" />
+  <action id="EditorStartNewLine" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
@@ -38,8 +60,21 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="Macro.;">
+    <keyboard-shortcut first-keystroke="semicolon" />
+  </action>
+  <action id="Macro.full">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="Macro.hideall">
+    <keyboard-shortcut first-keystroke="alt z" />
   </action>
   <action id="Macro.reload">
     <keyboard-shortcut first-keystroke="ctrl t" />
@@ -61,19 +96,18 @@
   <action id="ReformatPlugin.ReformatCodeAndOptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
   </action>
-  <action id="RunToCursor">
-    <keyboard-shortcut first-keystroke="alt f9" />
-    <keyboard-shortcut first-keystroke="f1" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f1" />
+  </action>
+  <action id="RerunTests" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
   <action id="SequencePlugin.ShowSequenceDiagram">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
   <action id="SmartIntroduce.Toggle">
     <keyboard-shortcut first-keystroke="shift ctrl alt i" />
-  </action>
-  <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="shift ctrl space" />
-    <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -121,11 +155,9 @@
     <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
   <action id="Vcs.UpdateProject" />
-  <action id="VcsShowNextChangeMarker">
-    <keyboard-shortcut first-keystroke="alt n" />
-  </action>
-  <action id="VcsShowPrevChangeMarker">
-    <keyboard-shortcut first-keystroke="shift alt n" />
+  <action id="com.bobz.action.OpenTerminalHereAction">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
   <action id="simpleUML.LoadDiagram" />
 </keymap>
